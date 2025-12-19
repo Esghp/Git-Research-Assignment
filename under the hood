@@ -1,5 +1,5 @@
 
-# What Happens Under the Hood When You Fork or Clone?
+## What Happens Under the Hood When You Fork or Clone?
 
 When you fork a repository on GitHub, GitHub creates a new copy of the repository
 under your own account. This new repository has its own URL and ownership,
